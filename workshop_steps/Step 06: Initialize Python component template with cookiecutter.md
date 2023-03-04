@@ -1,8 +1,8 @@
 ## Step 6: Initialize Python component template with cookiecutter
 
-**Note**
-Make sure you have Python 3 and pip installed properly with "python --version" returning a version of Python 3 and 
-"pip --version" also returning a version compatible with Python 3.
+>**Note**
+>Make sure you have Python 3 and pip installed properly with "python --version" returning a version of Python 3 and 
+>"pip --version" also returning a version compatible with Python 3.
 
 First install CookieCutter from your terminal using the command:
 
