@@ -23,11 +23,11 @@ To get a Developer Portal Service account; in the Developer Portal,
 navigate to the Service accounts section and click Create a service account. 
 You will be asked to provide name and description:
 
-![](resources/images_for_readme/service_account_1.png)
+![](../resources/images_for_readme/service_account_1.png)
 
 You will receive username and password that you need to store securely:
 
-![](resources/images_for_readme/service_account_user_pass.png)
+![](../resources/images_for_readme/service_account_user_pass.png)
 
 Use the username as the KBC_DEVELOPERPORTAL_USERNAME and the password as the KBC_DEVELOPERPORTAL_PASSWORD.
 
