@@ -37,17 +37,17 @@ CookieCutter will then require you to fill in some details about the component:
 Once you finish the CookieCutter process you will have a customised template in the directory you had your terminal open in.
 
 
-### Understanding the component template
+## Understanding the component template
 
 There are many subdirectories present in the component template, they will be explained in this section.
 
 ![](../resources/images_for_readme/component_dirs.png)
 
-#### .github Directory
+### .github Directory
 
 This directory contains all GitHub workflows for the deployment of components. You do not need to change anything in this directory.
 
-#### Component Config Directory
+### Component Config Directory
 
 This directory contains information about the component, there are multiple files that are important for the configuration of the component, the important ones are:
 * component_long_description.md: contains the component long description
@@ -58,23 +58,23 @@ This directory contains information about the component, there are multiple file
 
 If updated, these files will be used to update the Developer Portal Properties of the component
 
-#### Data Directory
+### Data Directory
 The data directory contains the Keboola Common Interface, a set structure of directories and files with which Keboola Connection communicates with components.
 Files and tables that are specified in the input of component configurations are added to the in/files and in/tables respectively, and files and tables in out/files and out/tables are stored in Keboola Connection once the component run finishes. The input and output directories can also contain a State file which holds the state of the component from the previous run.
 The Configuration file (config.json) stores all necessary configuration parameters passed on from Keboola Connection on how the component should run.
 
-#### Docs Directory
+### Docs Directory
 
 This directory holds some diagrams of the template architecture. It is common to store the component icon here.
-#### Scripts Directory
+### Scripts Directory
 
 This directory holds scripts for running tests and deployment, you do not need to update anything here.
 
-#### Source Directory
+### Source Directory
 
 This directory holds the component code.
 
-#### Tests Directory
+### Tests Directory
 This directory can have all functional and unit tests that are necessary for your component.
 
 
