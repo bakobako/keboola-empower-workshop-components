@@ -11,10 +11,14 @@ this contains all the logic of your component; connecting to clients, pushing or
 saving data to the output, etc. The run function is populated with common uses of functions like handling the state, 
 config, tables, manifests, and logging.
 
+## Update component.py with the script code
 
-something about copy pasting the code
-what code to add to the run
-what code to add to the UI
+View the script 
+
+## Update requirements.txt
+
+## Update the UI
+
 
 
 
