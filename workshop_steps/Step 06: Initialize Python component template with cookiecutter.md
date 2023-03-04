@@ -34,3 +34,7 @@ CookieCutter will then require you to fill in some details about the component:
 * Enter whether you want to push a test tag once a branch is updated; this is useful for running a testing version of the component in Keboola without updating the live version of the component.
 
 Once you finish the CookieCutter process you will have a customised template in the directory you had your terminal open in.
+
+
+
+[Next Step](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2007%3A%20Push%20template%20to%20repository%20and%20deploy%20it%20to%20Keboola.md)

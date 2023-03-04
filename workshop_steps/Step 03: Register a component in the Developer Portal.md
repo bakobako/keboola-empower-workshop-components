@@ -16,3 +16,6 @@ In this case :
 Once all are filled in, your component ID will be generated, and you can add the component.
 
 ![](resources/images_for_readme/add_component.png)
+
+
+[Next Step](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2004%3A%20Create%20a%20component%20repository%20in%20GitHub.md)

@@ -24,3 +24,6 @@ and select View API keys in drop-down menu. You can then copy the key by clickin
 ### * CSV File
 
 The csv file should contain a column that contains text that should be analyzed.
+
+
+[Next Step](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2003%3A%20Register%20a%20component%20in%20the%20Developer%20Portal.md)

@@ -30,3 +30,6 @@ You will receive username and password that you need to store securely:
 ![](resources/images_for_readme/service_account_user_pass.png)
 
 Use the username as the KBC_DEVELOPERPORTAL_USERNAME and the password as the KBC_DEVELOPERPORTAL_PASSWORD.
+
+
+[Next Step](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2006%3A%20Initialize%20Python%20component%20template%20with%20cookiecutter.md)
