@@ -1,0 +1,18 @@
+{
+    "id": "in.c-test.text_to_analyze",
+    "uri": "https:\/\/connection.keboola.com\/v2\/storage\/tables\/in.c-test.text_to_analyze",
+    "name": "test",
+    "primary_key": [],
+    "indexed_columns": [],
+    "created": "2018-03-02T15:36:50+0100",
+    "last_change_date": "2018-03-02T15:36:54+0100",
+    "last_import_date": "2018-03-02T15:36:54+0100",
+    "rows_count": 0,
+    "data_size_bytes": 0,
+    "is_alias": false,
+    "attributes": [],
+    "columns": [
+        "id",
+        "message"
+    ]
+}
