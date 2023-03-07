@@ -11,7 +11,7 @@
 
 Follow these steps, and you'll have a component in no time.
 
-* [Step 01: Understand core concepts and tools](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2001%20%3A%20Review%20the%20slides.md)
+* [Step 01: Understand core concepts and tools](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2001%3A%20Understand%20core%20concepts%20and%20tools.md)
 * [Step 02: Look through the python script](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2002%3A%20Look%20through%20the%20python%20script.md)
 * [Step 03: Register a component in the Developer Portal](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2003%3A%20Register%20a%20component%20in%20the%20Developer%20Portal.md)
 * [Step 04: Create a component repository in GitHub](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2004%3A%20Create%20a%20component%20repository%20in%20GitHub.md)
@@ -22,5 +22,5 @@ Follow these steps, and you'll have a component in no time.
 * [Step 09: Test component locally](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2009%3A%20Test%20component%20locally.md)
 * [Step 10: Test component locally](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2010%3A%20Deploy%20component%20code%20to%20Developer%20Portal.md)
 * [Step 11: Run component in Keboola](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2011%3A%20Run%20component%20in%20Keboola.md)
-* [Step 12: Enhancing the component](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2011%3A%20Run%20component%20in%20Keboola.md)
+* [Step 12: Enhancing the component](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2012%3A%20Enhancing%20the%20component.md)
 
