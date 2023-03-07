@@ -3,7 +3,7 @@ Once the template is ready, you need to push it to your GitHub repository.
 CookieCutter already creates an initial commit, so all you have to do is push it to the repository with :
 
 ```
-git push
+git push --set-upstream origin main
 ```
 
 Then in GitHub:
