@@ -15,3 +15,7 @@ https://connection.north-europe.azure.keboola.com/admin/projects/13513/component
 
 There you can then create a new configuration of your unlisted/unpublished component and run it after configuring it.
 
+
+
+[Next Step](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2012%3A%20Enhancing%20the%20component.md)
+
