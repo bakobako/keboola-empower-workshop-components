@@ -1,4 +1,4 @@
-## Step 4: Create a component repository in GitHub
+## Step 04: Create a component repository in GitHub
 
 This step is very simple. Just go to your GitHub and create a new repository. Name the repository with the ID of the
 component you generated in the previous step, e.g. my-vendor.ex-demo-component.

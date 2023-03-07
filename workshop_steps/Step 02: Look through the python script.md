@@ -1,4 +1,4 @@
-## Step 2: Look through the python script
+## Step 02: Look through the python script
 
 The [Python script](https://github.com/bakobako/OpenAI-Data-Analyzer) is a simple piece of code that uses the OpenAI 
 API to analyze text. The input is a base prompt, API token, and a csv file. It goes through a CSV file containing text 
@@ -24,6 +24,5 @@ and select View API keys in drop-down menu. You can then copy the key by clickin
 ### * CSV File
 
 The csv file should contain a column that contains text that should be analyzed.
-
 
 [Next Step](https://github.com/bakobako/keboola-empower-workshop-components/blob/main/workshop_steps/Step%2003%3A%20Register%20a%20component%20in%20the%20Developer%20Portal.md)

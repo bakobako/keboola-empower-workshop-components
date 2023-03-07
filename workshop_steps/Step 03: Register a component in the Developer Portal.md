@@ -1,4 +1,4 @@
-## Step 3: Register a component in the Developer Portal
+## Step 03: Register a component in the Developer Portal
 
 To register a component you will need a [Keboola Developer Account and vendor](https://developers.keboola.com/extend/component/tutorial/#before-you-start). 
 Go to your account and add a new component.

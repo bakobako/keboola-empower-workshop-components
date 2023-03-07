@@ -1,4 +1,4 @@
-## Step 5: Setup CI variables in GitHub
+## Step 05: Setup CI variables in GitHub
 
 Once you have a repository, you can already setup the CI repository variables.
 Navigate to repository Settings > Secrets and add the following secrets

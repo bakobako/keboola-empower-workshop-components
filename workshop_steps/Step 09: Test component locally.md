@@ -1,4 +1,4 @@
-## Step 9: Test component locally
+## Step 09: Test component locally
 
 To run the component just initialise a virtual environment with the requirements.txt file and run the component.py code.
 

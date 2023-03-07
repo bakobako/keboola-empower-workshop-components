@@ -1,4 +1,4 @@
-## Step 6: Initialize Python component template with cookiecutter
+## Step 06: Initialize Python component template with cookiecutter
 
 >**Note**
 > 
